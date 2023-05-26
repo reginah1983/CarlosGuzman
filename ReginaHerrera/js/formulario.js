@@ -1,3 +1,4 @@
+
 const movPag= document.querySelector(".movPag");
 const btn_adelante2= document.querySelector(".sigPag");
 
